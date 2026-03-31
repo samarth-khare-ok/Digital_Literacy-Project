@@ -1,0 +1,23 @@
+Internship Interest
+
+From – Samarth Khare 
+<Samarth.25bai10105@vitbhopal.ac.in>
+To – Mr. Amit Khare 
+<khareamit @vitbhopal.ac.in>
+
+
+Subject: Summer Internship Application: [Specific Role/Title] - 
+
+Dear [Coordinator's Name or Hiring Manager],
+
+I hope you are having a great week.
+
+I am writing to express my strong interest in the summer internship opportunity at [Company Name]. I have been following your company's work in [mention a brief detail about the company's industry or recent project], and I am eager to contribute to your team while further developing my technical skills.
+
+Through my recent coursework and personal projects, I have built a solid foundation in both software development and electronics. Recently, I designed and developed a graphical user interface calculator using Python and the tkinter library. Additionally, I have gained practical analytical skills through exploring and simulating electronics, such as full-wave bridge rectifiers. I am highly motivated to bring this hands-on technical background and my problem-solving mindset to the [Specific Team/Department] at [Company Name].
+
+I have attached my resume for your review, which provides additional details about my academic background and projects. I would welcome the opportunity to discuss how my skills align with your needs this summer.
+
+Thank you for your time and consideration. I look forward to hearing from you.
+
+Best regards,
