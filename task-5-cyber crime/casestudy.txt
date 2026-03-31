@@ -1,0 +1,9 @@
+**Case Study: Phishing Attack on a College Student**
+
+Phishing is a common cybercrime where attackers trick individuals into revealing sensitive information by posing as trustworthy entities. A notable case involved a first-year college student who received an email claiming to be from their university’s IT department. The email warned that their account would be suspended unless they verified their login credentials immediately.
+
+The message looked authentic, using official logos and a professional tone. It included a link that directed the student to a fake login page resembling the university portal. Without suspecting anything, the student entered their username and password. Within hours, the attacker accessed the student’s account, sending spam emails to others and attempting to access linked services such as cloud storage and academic records.
+
+The consequences were significant. The student temporarily lost access to their academic resources, and their reputation was affected as malicious emails were sent from their account. The university IT team later intervened, restored access, and educated students about such threats.
+
+This case highlights the importance of digital awareness. Key preventive measures include checking email authenticity, avoiding clicking suspicious links, verifying URLs, and enabling two-factor authentication. Phishing attacks rely on urgency and trust, making awareness the most effective defense. By staying cautious and informed, individuals can significantly reduce the risk of falling victim to such cyber threats.
