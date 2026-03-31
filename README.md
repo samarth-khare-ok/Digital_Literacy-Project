@@ -8,7 +8,7 @@
 
 - [About the Project](#-about-the-project)  
 - [Repository Structure](#-repository-structure)  
-- [google quiz link](#-https://docs.google.com/forms/d/e/1FAIpQLScORlrIIN6C4bVy-LmuX3sXP12kIUWWsfiNJkdofBit3p38vQ/viewform?usp=dialog)  
+- [google quiz link](#-https://docs.google.com/forms/d/e/1FAIpQLScORlrIIN6C4bVy-LmuX3sXP12kIUWWsfiNJkdofBit3p38vQ/viewform)  
 - [Task 1 – Digital Literacy Infographic](#-task-1--digital-literacy-infographic)  
 - [Task 2 – Student Digital Portfolio](#-task-2--student-digital-portfolio)  
 - [Task 3 – Coding & Collaboration Platforms](#-task-3--coding--collaboration-platforms)  
@@ -46,7 +46,7 @@ Digital-literacy-project/
 ├─ report/
 │  └─ Project_Report.pdf        # Full project report
 ├─ task-1-presentation/
-│  └─ infographic.png / .jpg
+│  └─ Digital Literacy.png / .jpg
 ├─ task-2-portfolio/
 │  ├─ github.png
 │  ├─ linkedin.png
